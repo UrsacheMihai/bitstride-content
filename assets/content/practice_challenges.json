@@ -1,0 +1,22 @@
+{
+  "title": "Practice Challenges",
+  "challenges": [
+    {
+      "id": "uc_1775316599401_0",
+      "title": "Test",
+      "language": "python",
+      "difficulty": "Hard",
+      "description": "Testing",
+      "initial_code": "print(\"test\")",
+      "tests": [
+        {
+          "input": "",
+          "expected_output": "test",
+          "is_hidden": false
+        }
+      ],
+      "success_mascot": "brain-lifting-weighs.gif",
+      "fail_mascot": "brain-sad-dissapointed.gif"
+    }
+  ]
+}
