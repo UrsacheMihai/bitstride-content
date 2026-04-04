@@ -1,19 +1,19 @@
-
 {
-  "id": "uc_1775316599401_0",
-  "title": "Test",
-  "description": "Testing",
-  "difficulty": "Hard",
-  "language": "python",
-  "tests": [
-    {
-      "input": "",
-      "expected_output": "test"
-    }
-  ],
-  "initial_code": "print(\"test\")",
-  "files": [],
-  "success_mascot": "nailed_it",
-  "fail_mascot": "keep_trying",
-  "creator_name": "BitStride Team"
+  "id": "uc_1775318457800_0",
+  "title": "A + B",
+  "description": "",
+  "difficulty": "Easy",
+  "language": "python",
+  "tests": [
+    {
+      "input": "1\n2",
+      "expected_output": "3",
+      "hidden": true
+    }
+  ],
+  "initial_code": "\na = int(input())\nb = int(input())\nprint(a + b) ",
+  "files": [],
+  "success_mascot": "nailed_it",
+  "fail_mascot": "keep_trying",
+  "creator_name": "BitStride Team"
 }
