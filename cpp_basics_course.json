@@ -1,0 +1,42 @@
+{
+  "id": "cpp_basics",
+  "title": "C++ Basics",
+  "description": "Learn the fundamentals of C++",
+  "language": "cpp",
+  "lessons": [
+    {
+      "id": "1775262054992",
+      "title": "New",
+      "description": "",
+      "type": "code",
+      "initial_code": "",
+      "success_mascot": "brain-celebrate.gif",
+      "fail_mascot": "brain-crying.gif",
+      "tests": [],
+      "files": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "1775262296216",
+      "title": "Test",
+      "description": "Test maybe",
+      "type": "code",
+      "initial_code": "",
+      "success_mascot": "brain-celebrate.gif",
+      "fail_mascot": "brain-crying.gif",
+      "tests": [],
+      "files": [],
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "Test"
+        }
+      ]
+    }
+  ]
+}

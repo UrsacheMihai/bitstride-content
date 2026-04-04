@@ -1,0 +1,68 @@
+{
+  "title": "Practice Challenges",
+  "challenges": [
+    {
+      "id": "uc_1775251567980_0",
+      "title": "Suma a n elemente",
+      "language": "cpp",
+      "difficulty": "Hard",
+      "description": "Fie n un numar natural si apoi n elemente",
+      "initial_code": "#include <iostream>\n#include <fstream>\nusing namespace std;\nifstream in(\"input.in\");\nofstream out(\"output.out\");\n\nint main(){\nint n,sum=0,t;\nin>>n;\nfor(int i=0;i<n;i++){\nin>>t;\nsum+=t;}\nout<<sum;}",
+      "tests": [
+        {
+          "input": "2 1 2",
+          "expected_output": "3",
+          "output_file": "output.out",
+          "is_hidden": true
+        },
+        {
+          "input": "5 10 20 30 40 50",
+          "expected_output": "150",
+          "output_file": "output.out",
+          "is_hidden": true
+        },
+        {
+          "input": "10 1 2 3 4 5 6 7 8 9 10",
+          "expected_output": "55",
+          "output_file": "output.out",
+          "is_hidden": true
+        },
+        {
+          "input": "100 82 45 12 97 34 66 21 88 53 10 74 39 5 62 18 91 27 50 84 3 77 41 69 15 99 22 58 46 31 80 14 63 25 87 52 9 71 36 60 4 95 28 67 19 83 48 2 76 40 70 13 98 24 61 33 89 54 8 72 37 64 6 93 29 68 17 85 51 1 79 43 73 11 96 26 65 35 90 55 7 75 42 78 16 94 30 59 38 92 57 20 86 44 81 23 56 32 49 47 100",
+          "expected_output": "5050",
+          "output_file": "output.out",
+          "is_hidden": true
+        }
+      ],
+      "files": [
+        {
+          "name": "input.in",
+          "content": "n si cele n elemente"
+        },
+        {
+          "name": "output.out",
+          "content": "suma"
+        }
+      ],
+      "success_mascot": "brain-lifting-weighs.gif",
+      "fail_mascot": "brain-sad-dissapointed.gif"
+    },
+    {
+      "id": "uc_1775248550280_0",
+      "title": "test",
+      "language": "python",
+      "difficulty": "Easy",
+      "description": "Hello BITSRTRIDE",
+      "initial_code": "print(\"Hello BITSRTRIDE\")",
+      "tests": [
+        {
+          "input": "",
+          "expected_output": "Hello BITSRTRIDE",
+          "is_hidden": false
+        }
+      ],
+      "success_mascot": "brain-lifting-weighs.gif",
+      "fail_mascot": "brain-sad-dissapointed.gif"
+    }
+  ]
+}
