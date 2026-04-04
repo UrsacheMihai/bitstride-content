@@ -1,19 +1,22 @@
 {
-  "id": "uc_1775318457800_0",
-  "title": "A + B",
-  "description": "",
-  "difficulty": "Easy",
-  "language": "python",
-  "tests": [
+  "title": "Practice Challenges",
+  "challenges": [
     {
-      "input": "1\n2",
-      "expected_output": "3",
-      "hidden": true
+      "id": "uc_1775318457800_0",
+      "title": "A + B",
+      "language": "python",
+      "difficulty": "Easy",
+      "description": "",
+      "initial_code": "\na = int(input())\nb = int(input())\nprint(a + b) ",
+      "tests": [
+        {
+          "input": "1\n2",
+          "expected_output": "3",
+          "is_hidden": true
+        }
+      ],
+      "success_mascot": "brain-lifting-weighs.gif",
+      "fail_mascot": "brain-sad-dissapointed.gif"
     }
-  ],
-  "initial_code": "\na = int(input())\nb = int(input())\nprint(a + b) ",
-  "files": [],
-  "success_mascot": "nailed_it",
-  "fail_mascot": "keep_trying",
-  "creator_name": "BitStride Team"
+  ]
 }
