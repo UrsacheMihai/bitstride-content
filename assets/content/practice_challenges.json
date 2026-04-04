@@ -1,1 +1,19 @@
 
+{
+  "id": "uc_1775316599401_0",
+  "title": "Test",
+  "description": "Testing",
+  "difficulty": "Hard",
+  "language": "python",
+  "tests": [
+    {
+      "input": "",
+      "expected_output": "test"
+    }
+  ],
+  "initial_code": "print(\"test\")",
+  "files": [],
+  "success_mascot": "nailed_it",
+  "fail_mascot": "keep_trying",
+  "creator_name": "BitStride Team"
+}
