@@ -3,5 +3,23 @@
   "title": "C++ Basics",
   "description": "Learn the fundamentals of C++",
   "language": "cpp",
-  "lessons": []
+  "lessons": [
+    {
+      "id": "1775316894158",
+      "title": "Rick Ashly",
+      "description": "",
+      "type": "code",
+      "initial_code": "",
+      "success_mascot": "brain-celebrate.gif",
+      "fail_mascot": "brain-crying.gif",
+      "tests": [],
+      "files": [],
+      "content_blocks": [
+        {
+          "type": "image",
+          "content": "https://i1.sndcdn.com/artworks-000409999251-jsaqfk-t500x500.jpg"
+        }
+      ]
+    }
+  ]
 }
